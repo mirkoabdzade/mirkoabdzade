@@ -1,5 +1,3 @@
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=mirkoabdzade&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mirkoabdzade)
-
 <h1 align="center">Hi 👋, I'm Mirko Abdzadeh</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
